@@ -25,7 +25,7 @@ EXPOSE 5003
 # Run the Flask app
 # CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:5000"]
 CMD ["python", "app.py"]
-
+ 
 
 ## For hugging Face deployment
 # FROM python:3.12.2
