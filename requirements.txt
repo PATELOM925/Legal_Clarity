@@ -1,0 +1,11 @@
+flask == 3.1.0
+englisttohindi == 4.1.0
+torch == 2.2.1
+rouge_score == 0.1.2
+transformers == 4.47.1
+sentencepiece == 0.2.0
+nltk == 3.9.1
+sacrebleu == 2.5.1
+gunicorn == 23.0.0
+protobuf == 5.29.3
+numpy == 1.26.0
