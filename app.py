@@ -19,8 +19,11 @@ nltk.download('punkt_tab', download_dir="/tmp/nltk_data")
 
 app = Flask(__name__)
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
-# device = "mps" if torch.backends.mps.is_available() else "cpu"
+if device = "cuda" 
+    if torch.cuda.is_available() 
+if device = "mps" 
+    if torch.backends.mps.is_available() 
+else "cpu"
 
 #Method 1 model
 pegasus_ckpt = "google/pegasus-cnn_dailymail"
