@@ -127,7 +127,7 @@ sacrebleu==2.5.1
 
 **OM M PATEL**
 MSc Computer Science (AI), York University
-[GitHub](https://github.com/PATELOM925) · [LinkedIn](https://www.linkedin.com/in/om-patel-925/)
+[GitHub](https://github.com/PATELOM925) · [LinkedIn](https://www.linkedin.com/in/om-m-patel/)
 
 ---
 
